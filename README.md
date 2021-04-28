@@ -1,3 +1,10 @@
+HASIL PRAKTIKUM 
+![TAMPILAN AWAL](https://user-images.githubusercontent.com/64391539/116335391-022efe80-a801-11eb-9d08-47bab5f42297.jpeg)
+![LOGIN WITH GOOGLE](https://user-images.githubusercontent.com/64391539/116335390-022efe80-a801-11eb-9e26-3691da0fce1f.jpeg)
+![ISI](https://user-images.githubusercontent.com/64391539/116335398-05c28580-a801-11eb-8109-a945551e86dd.jpeg)
+
+HASIL TUGAS
+
 # firebase
 
 A new Flutter project.
